@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  name: MyString
+  goal_description: MyText
+  goal_position: MyString
+  school_id_1: 1
+  school_id_2: 1
+  school_id_3: 1
+  job_id_1: 1
+  job_id_2: 1
+  job_id_3: 1
+  job_id_4: 1
+  job_id_5: 1
+  contact_id: 1
+
+two:
+  user_id: 1
+  name: MyString
+  goal_description: MyText
+  goal_position: MyString
+  school_id_1: 1
+  school_id_2: 1
+  school_id_3: 1
+  job_id_1: 1
+  job_id_2: 1
+  job_id_3: 1
+  job_id_4: 1
+  job_id_5: 1
+  contact_id: 1
